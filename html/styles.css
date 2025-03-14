@@ -1,0 +1,43 @@
+:root{
+    --dark-color: #2F303A;
+    --light-color: #F5F4FA;
+    --button-color: #2196F3;
+    --text-color: #212121;
+    --light-text-color: #ffffff;
+}
+.header {
+    background-color: var(--light-color);
+}
+.navigation {
+    color: var(--text-color);
+}
+.navigation2 {
+    color: var(--button-color);
+}
+.section-1 {
+     background-color: var(--dark-color);
+    color: var(--light-text-color);
+}
+.button {
+     background-color: var(--button-color);
+    color: var(--light-text-color);
+}
+.section-4 {
+    background-color: var(--light-color);
+    color: var(--text-color);
+}
+.section-2 {
+    background-color: var(--light-color);
+    color: var(--text-color);
+}
+.section-3 {
+     background-color: var(--light-color);
+    color: var(--text-color);
+}
+.footer {
+    background-color: var(--dark-color);
+    color: var(--light-text-color);
+}
+.list {
+    color: var(--light-text-color);
+}

@@ -1,0 +1,34 @@
+:root{
+    --dark-color: #2F303A;
+    --light-color: #F5F4FA;
+    --button-color: #2196F3;
+    --text-color: #212121;
+    --light-text-color: #ffffff;
+}
+.header {
+     background-color: var(--light-color);
+}
+.navigation {
+     color: var(--text-color);
+}
+.navigation2 {
+    color: var(--button-color);
+}
+.button1 {
+    background-color: var(--button-color);
+    color: var(--light-text-color);
+}
+.button2 {
+    background-color: var(--light-text-color);
+    color: var(--text-color);
+}
+.section {
+    color: var(--light-color);
+}
+.footer {
+    background-color: var(--dark-color);
+    color: var(--light-text-color);
+}
+.list {
+    color: var(--light-text-color);
+}
